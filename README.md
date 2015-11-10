@@ -21,7 +21,8 @@
 - [OptiKey](https://github.com/JuliusSweetland/OptiKey/wiki)
 
 ## Services
-coming
+- [EyeProof](http://eyeproof.net)
+- [CoolTool](https://cooltool.com/)
 
 ## Devices
 coming
