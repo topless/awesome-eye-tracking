@@ -5,9 +5,9 @@
 ## Table of Contents
 
 - [Vendors](#vendors)
-- [Devices](#devices)
-- [Services](#services)
 - [Software](#software)
+- [Services](#services)
+- [Devices](#devices)
 
 
 ## Vendors
@@ -17,11 +17,11 @@
 - [FOVE](http://www.getfove.com/)
 - [EyeFluence](http://eyefluence.com/)
 
-## Devices
-coming
+## Software
+- [OptiKey](https://github.com/JuliusSweetland/OptiKey/wiki)
 
 ## Services
 coming
 
-## Software
+## Devices
 coming
