@@ -3,6 +3,8 @@ a
 
 > A curated list of delightful eye tracking hardware and software
 
+Contributions are more than welcome :)
+
 ## Table of Contents
 
 - [Vendors](#vendors)
@@ -29,4 +31,12 @@ a
 
 ## Devices
 
-coming
+- Desktop
+  - [The Eye Tribe Tracker](https://theeyetribe.com/products/) $99
+  - [Tobii EyeX Controller](http://www.tobii.com/xperience/) $139
+  - [SMI RED250MOBILE](http://www.smivision.com/en/gaze-and-eye-tracking-systems/products/red250mobile.html)
+
+
+- Virtual Reality
+  - [FOVE Headset](http://www.getfove.com/)
+  - [SMI upgrade package for Oculus Rift DK2](http://www.smivision.com/en/gaze-and-eye-tracking-systems/products/eye-tracking-hmd-upgrade.html)
