@@ -1,4 +1,3 @@
-a
 # Awesome Eye Tracking [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of delightful eye tracking hardware and software
@@ -9,7 +8,7 @@ Contributions are more than welcome :)
 
 - [Vendors](#vendors)
 - [Software](#software)
-- [Services](#services)
+- [Web Services](#services)
 - [Devices](#devices)
 
 ## Vendors
@@ -24,7 +23,7 @@ Contributions are more than welcome :)
 
 - [OptiKey](https://github.com/JuliusSweetland/OptiKey/wiki)
 
-## Services
+## Web Services
 
 - [EyeProof](http://eyeproof.net)
 - [CoolTool](https://cooltool.com/)
