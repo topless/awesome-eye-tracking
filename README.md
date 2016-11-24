@@ -15,6 +15,7 @@ Contributions are more than welcome :)
 
 - [EyeFluence](http://eyefluence.com/)
 - [FOVE](http://www.getfove.com/)
+- [PUPIL](http://pupil-labs.com/)
 - [SMI](http://www.smivision.com/)
 - [The Eye Tribe](https://theeyetribe.com/)
 - [Tobii](http://www.tobii.com/)
@@ -22,6 +23,7 @@ Contributions are more than welcome :)
 ## Software
 
 - [OptiKey](https://github.com/JuliusSweetland/OptiKey/wiki)
+- [PUPIL Platform](https://pupil-labs.com/pupil/)
 
 ## Web Services
 
@@ -35,7 +37,10 @@ Contributions are more than welcome :)
   - [Tobii EyeX Controller](http://www.tobii.com/xperience/) $139
   - [SMI RED250MOBILE](http://www.smivision.com/en/gaze-and-eye-tracking-systems/products/red250mobile.html)
 
+- Desktop and Mobile
+  - [PUPIL Pro](https://pupil-labs.com/store/)
 
 - Virtual Reality
   - [FOVE Headset](http://www.getfove.com/)
   - [SMI upgrade package for Oculus Rift DK2](http://www.smivision.com/en/gaze-and-eye-tracking-systems/products/eye-tracking-hmd-upgrade.html)
+  - [PUPIL VR/AR](https://pupil-labs.com/vr-ar/)
