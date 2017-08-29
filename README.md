@@ -17,8 +17,6 @@ Contributions are more than welcome :)
 - [EyeFluence](http://eyefluence.com/)
 - [FOVE](http://www.getfove.com/)
 - [Pupil Labs](https://pupil-labs.com/)
-- [SMI](http://www.smivision.com/)
-- [The Eye Tribe](https://theeyetribe.com/)
 - [Tobii](http://www.tobii.com/)
 
 ## Software
@@ -39,12 +37,9 @@ Contributions are more than welcome :)
 
 - [Pupil](https://pupil-labs.com/store/)
 - [Pupil DIY](https://docs.pupil-labs.com/#diy)
-- [SMI RED250MOBILE](http://www.smivision.com/en/gaze-and-eye-tracking-systems/products/red250mobile.html)
-- [The Eye Tribe Tracker](https://theeyetribe.com/products/) - $99
 - [Tobii EyeX Controller](http://www.tobii.com/xperience/) - $139
 
 ## Virtual Reality
 
 - [FOVE Headset](http://www.getfove.com/)
 - [Pupil VR/AR Add-ons](https://pupil-labs.com/vr-ar/)
-- [SMI upgrade package for Oculus Rift DK2](http://www.smivision.com/en/gaze-and-eye-tracking-systems/products/eye-tracking-hmd-upgrade.html)
