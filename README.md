@@ -16,35 +16,30 @@ Contributions are more than welcome :)
 
 - [EyeFluence](http://eyefluence.com/)
 - [FOVE](http://www.getfove.com/)
-- [Pupil](http://pupil-labs.com/)
-- [SMI](http://www.smivision.com/)
-- [The Eye Tribe](https://theeyetribe.com/)
+- [Pupil Labs](https://pupil-labs.com/)
 - [Tobii](http://www.tobii.com/)
 
 ## Software
 
 - [OptiKey](https://github.com/JuliusSweetland/OptiKey/wiki)
-- [Pupil Platform](https://pupil-labs.com/pupil/)
+- [Pupil Platform](https://github.com/pupil-labs/pupil/) - Pupil Capture, Pupil Player, Pupil Service
+	- [Pupil Mobile](https://docs.pupil-labs.com/#pupil-mobile) - Android App
 
 ## Web Services
 
 - [EyeProof](http://eyeproof.net)
 - [CoolTool](https://cooltool.com/)
-- Pupil Web
-  - [Pupil Service](https://github.com/pupil-labs/pupil/blob/master/pupil_src/capture/service.py)
+- [Pupil - Network Communication](https://docs.pupil-labs.com/#interprocess-and-network-communication)
   - [Pupil Groups](https://github.com/pupil-labs/pupil/blob/master/pupil_src/shared_modules/pupil_groups.py)
   - [Pupil Remote](https://github.com/pupil-labs/pupil/blob/master/pupil_src/shared_modules/pupil_remote.py)
 
 ## Devices
 
-- [Pupil DIY](https://github.com/pupil-labs/pupil/wiki/DIY-Kit-Guide)
-- [Pupil Pro](https://pupil-labs.com/store/)
-- [SMI RED250MOBILE](http://www.smivision.com/en/gaze-and-eye-tracking-systems/products/red250mobile.html)
-- [The Eye Tribe Tracker](https://theeyetribe.com/products/) - $99
+- [Pupil](https://pupil-labs.com/store/)
+- [Pupil DIY](https://docs.pupil-labs.com/#diy)
 - [Tobii EyeX Controller](http://www.tobii.com/xperience/) - $139
 
 ## Virtual Reality
 
 - [FOVE Headset](http://www.getfove.com/)
-- [Pupil VR/AR](https://pupil-labs.com/vr-ar/)
-- [SMI upgrade package for Oculus Rift DK2](http://www.smivision.com/en/gaze-and-eye-tracking-systems/products/eye-tracking-hmd-upgrade.html)
+- [Pupil VR/AR Add-ons](https://pupil-labs.com/vr-ar/)
