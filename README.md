@@ -11,6 +11,7 @@ Contributions are more than welcome :)
 - [Web Services](#web-services)
 - [Devices](#devices)
 - [Virtual Reality](#virtual-reality)
+- [Articles](#articles)
 
 ## Vendors
 
@@ -27,6 +28,7 @@ Contributions are more than welcome :)
 
 ## Web Services
 
+- [WebGazer.js](https://webgazer.cs.brown.edu)
 - [EyeProof](http://eyeproof.net)
 - [CoolTool](https://cooltool.com/)
 - [Pupil - Network Communication](https://docs.pupil-labs.com/#interprocess-and-network-communication)
@@ -43,3 +45,7 @@ Contributions are more than welcome :)
 
 - [FOVE Headset](http://www.getfove.com/)
 - [Pupil VR/AR Add-ons](https://pupil-labs.com/vr-ar/)
+
+## Articles
+
+- [Eye Tracking in Python with OpenCV](https://medium.com/@stepanfilonov/tracking-your-eyes-with-python-3952e66194a6)
